@@ -1,0 +1,30 @@
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 20px;
+}
+
+/* Table Styling */
+table {
+    width: 60%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+/* Image Styling */
+img {
+    width: 200px;
+    height: auto;
+    border: 3px solid #333;
+    border-radius: 10px;
+}
